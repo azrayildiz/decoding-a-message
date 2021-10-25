@@ -1,0 +1,23 @@
+{
+	"name": "decoding-a-message",
+	"version": "1.0.1",
+	"description": "A library to encode and decode each letter",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest --watchAll"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/azrayildiz/decoding-a-message.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/azrayildiz/decoding-a-message/issues"
+	},
+	"homepage": "https://github.com/azrayildiz/decoding-a-message#readme",
+	"devDependencies": {
+		"jest": "^27.3.1"
+	}
+}
