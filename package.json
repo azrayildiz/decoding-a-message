@@ -1,6 +1,6 @@
 {
 	"name": "decoding-a-message",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"description": "A library to encode and decode each letter",
 	"main": "index.js",
 	"scripts": {
